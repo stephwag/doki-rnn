@@ -16,7 +16,7 @@ Copy `scripts.rpa` into the appropriate directory (and backup your original game
 
 Temperature is a setting to control the "creativity" of the neural net, anywhere between 0.0 to 2.0. The default is 1.0.
 
-![a](https://i.imgur.com/Bh2Qv5s.png)
+<img width="60%" src="https://i.imgur.com/Bh2Qv5s.png">
 
 Generally speaking, since it is generating code, "creativity" may mean it will generate more buggy code (which may cause it to reload the script more often). However, it's there if you want to play with it anyways.
 
