@@ -24,7 +24,7 @@ Generally speaking, since it is generating code, "creativity" may mean it will g
 
 Since a neural net is programming the game, it will generate bad code every now and then. This cannot be helped.
 
-If you see an exception giving you an option to either "ignore" it, choose that option. If that isn't available, click the "rollback" option (if available). If neither option is available, you may have to restart the game.
+If you see an exception giving you an option to "ignore" it, choose that option. If that isn't available, click the "rollback" option. If neither option is available, you may have to restart the game.
 
 You may see the game go into "reload script" mode for a few seconds, then resume the game. This is because sometimes the generated code will cause something in memory to bug out, which also causes the Ren'Py parser to refuse loading new commands. Reloading script is basically a workaround for that.
 
