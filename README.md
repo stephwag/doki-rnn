@@ -2,7 +2,8 @@
 
 This mod uses a recurrent neural network that continuously writes code for the game to execute. The result ranges from hilarious nonsense to downright terrifying nonsense.
 
-<img width="50%" src="https://i.imgur.com/9yRtYCF.jpg"><img width="48%" src="https://i.imgur.com/fHj4Zmb.jpg">
+<img width="51%" src="https://i.imgur.com/9yRtYCF.jpg"><img width="49%" src="https://i.imgur.com/VIHwob2.jpg">
+<img width="50%" src="https://i.imgur.com/zWJpmxD.gif"><img width="50%" src="https://i.imgur.com/fHj4Zmb.jpg">
 
 ### How to Install
 
