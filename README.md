@@ -5,6 +5,8 @@ This mod uses a recurrent neural network that continuously writes code for the g
 <img width="51%" src="https://i.imgur.com/9yRtYCF.jpg"><img width="49%" src="https://i.imgur.com/VIHwob2.jpg">
 <img width="50%" src="https://i.imgur.com/zWJpmxD.gif"><img width="50%" src="https://i.imgur.com/fHj4Zmb.jpg">
 
+Demo: https://www.youtube.com/watch?v=WrrrUQUd3mI
+
 ### How to Install
 
 **Important Note**: If you use Windows, [please make sure you read the system requirements before installing Docker](https://docs.docker.com/docker-for-windows/install/#what-to-know-before-you-install). This is because it requires Microsoft Hyper-V to run, which is not supported in all versions of Windows 10. If you don't have the right version, you can try to manually run [the Python script that the service itself runs](https://github.com/stephwag/doki-rnn-service). The commands to set up the service can be found [here](https://github.com/stephwag/doki-rnn-service/blob/master/Dockerfile) (so you can adapt it to the Windows equivalent).
