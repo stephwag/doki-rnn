@@ -7,6 +7,8 @@ This mod uses a recurrent neural network that continuously writes code for the g
 
 ### How to Install
 
+**Important Note**: If you use Windows, [please make sure you read the system requirements before installing Docker](https://docs.docker.com/docker-for-windows/install/#what-to-know-before-you-install). This is because it requires Microsoft Hyper-V to run, which is not supported in all versions of Windows 10. If you don't have the right version, you can try to manually run [the Python script that the service itself runs](https://github.com/stephwag/doki-rnn-service). The commands to set up the service can be found [here](https://github.com/stephwag/doki-rnn-service/blob/master/Dockerfile) (so you can adapt it to the Windows equivalent).
+
 Install [Docker](https://docs.docker.com/install/#supported-platforms), then run `docker run -p 8081:8081 stephwag/doki`. The container must be running for the game to work. You can turn it off after you're done playing.
 
 Copy `scripts.rpa` into the appropriate directory (and backup your original game files).
