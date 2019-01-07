@@ -34,3 +34,6 @@ If you see an exception giving you an option to "ignore" it, choose that option.
 You may see the game go into "reload script" mode for a few seconds, then resume the game. This is because sometimes the generated code will cause something in memory to bug out, which also causes the Ren'Py parser to refuse loading new commands. Reloading script is basically a workaround for that.
 
 You also may notice a very slight delay between each interaction. Generating dialogue takes a long time, and compared to other approaches I've tried, this seemed to be the least disruptive for gameplay. If I find a better way I'll update.
+
+### License
+You can do whatever you want with it, as long as it follows [Team Salvato's IP guidelines](http://teamsalvato.com/ip-guidelines).
